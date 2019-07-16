@@ -1,3 +1,8 @@
+## Origin Author
+hizhangp implement yolo_v1
+https://github.com/hizhangp/yolo_tensorflow
+
+
 ## YOLO_tensorflow
 
 Tensorflow implementation of [YOLO](https://arxiv.org/pdf/1506.02640.pdf), including training and test phase.
@@ -6,7 +11,7 @@ Tensorflow implementation of [YOLO](https://arxiv.org/pdf/1506.02640.pdf), inclu
 
 1. Clone yolo_tensorflow repository
 	```Shell
-	$ git clone https://github.com/hizhangp/yolo_tensorflow.git
+	$ git clone https://github.com/paul90539/yolo_v1_detect
     $ cd yolo_tensorflow
 	```
 
